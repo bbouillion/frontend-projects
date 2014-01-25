@@ -11,7 +11,11 @@
 }
 
 
-.header {}
+.header {
+	width: 990px;
+	height: 150px;
+}
+	
 /* hint! you have to contain the floated children elements. */
 
 .logo {
@@ -23,10 +27,13 @@
 }
 
 .sidebar {
+	width: 990px;
 }
 
 .main_content {
+	width: 990px;
 }
 
 .footer {
+	width: 990px;
 }

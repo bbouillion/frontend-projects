@@ -11,16 +11,29 @@
 }
 
 
-.header {}
+.header {
+	height: 214px;
+	width: 984px;
+	margin: 0 auto;
+}
 /* hint! what do you have to add here? */
 
-.logo {}
+.logo {
+	height: 58px;
+	width: 950px;
+}
 
-.navigation {}
+.navigation {
+	height: 58px;
+	width: 950px;
+}
 
 .sidebar {}
 
-.main_content {}
+.main_content {
+	height: 214px;
+	width: 984px;
+}
 /* hint! you have to contain the floated children elements. */
 
 .sub_content {
@@ -30,4 +43,7 @@
 	/* hint! */
 }
 
-.footer {}
+.footer {
+	width: 984px;
+	height: 58px;
+}
